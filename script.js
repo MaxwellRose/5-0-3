@@ -4,4 +4,4 @@ function myFunction () {
   document.getElementById('button').innerHTML = 'Good Job'
 }
 
-document.body.style.backgroundColor = 'red'
+
